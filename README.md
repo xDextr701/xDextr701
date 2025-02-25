@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xDextr701
-- 🌱 I’m currently learning: Python, Java, HTML, CSS, JS, Git.
-- 💞️ I’m looking to collaborate on interesting projects
-- ⚡ Fun fact: I like beer and pizza :D
+- 👋 Hola, soy @xDextr701
+- 🌱 Actualmente estoy aprendiendo: Python, Java, HTML, CSS, JS, Git.
+- 💞️ Me gustaría colaborar en proyectos interesantes.
+- ⚡ Dato curioso: Me gusta la pizza. 😄
 
 <!---
 xDextr701/xDextr701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
